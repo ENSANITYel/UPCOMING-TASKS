@@ -13,3 +13,5 @@
   maintain a ec2 ubuntu shell for maintainance 
 
   PROJECT COMPLETE
+
+9.update portfolio project and upload in GIT and also upload in AWS as a static website 
